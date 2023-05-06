@@ -1,0 +1,10 @@
+^C:\USERS\DINHT\DOCUMENTS\FLUTTERDEV\CODE_GENIUS\BUILD\WINDOWS\CMAKEFILES\F4DF7D798FC2A8FCA1A087F02B08B3B0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/dinht/Documents/FlutterDev/code_genius/windows -BC:/Users/dinht/Documents/FlutterDev/code_genius/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/code_genius.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
