@@ -3,6 +3,7 @@ import 'dart:developer';
 import 'package:code_genius/constants/color.dart';
 import 'package:code_genius/constants/constants.dart';
 import 'package:code_genius/constants/icons.dart';
+import 'package:code_genius/services/api_services.dart';
 import 'package:code_genius/widgets/chat_widgets.dart';
 import 'package:code_genius/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
@@ -96,7 +97,13 @@ class _ChatScreenState extends State<ChatScreen> {
                         ),
                       ),
                       IconButton(
-                        onPressed: () {},
+                        onPressed: () async {
+                          try {
+                            await ApiService.getModels();
+                          } catch (error) {
+                            print("error $error");
+                          }
+                        },
                         icon: Icon(
                           Icons.send,
                           color: Colors.white,
