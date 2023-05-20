@@ -27,6 +27,7 @@ C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/
 C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
 C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
 C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/flutter_assets/NOTICES
 C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
 C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
 C:/Users/dinht/Documents/FlutterDev/code_genius/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,3 +1,4 @@
+import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:code_genius/constants/color.dart';
 import 'package:code_genius/constants/icons.dart';
 import 'package:code_genius/widgets/text_widget.dart';
@@ -26,7 +27,29 @@ class ChatWidget extends StatelessWidget {
                 const SizedBox(
                   width: 8,
                 ),
-                Expanded(child: TextWidget(label: msg)),
+                Expanded(
+                    child: chatIndex == 0
+                        ? TextWidget(
+                            label: msg,
+                          )
+                        : DefaultTextStyle(
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.w700,
+                              fontSize: 16,
+                            ),
+                            child: AnimatedTextKit(
+                              isRepeatingAnimation: false,
+                              repeatForever: false,
+                              displayFullTextOnTap: true,
+                              totalRepeatCount: 1,
+                              animatedTexts: [
+                                TypewriterAnimatedText(
+                                  msg.trim(),
+                                )
+                              ],
+                            ),
+                          )),
                 chatIndex == 0
                     ? SizedBox.shrink()
                     : Row(

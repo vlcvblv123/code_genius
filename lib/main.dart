@@ -1,8 +1,9 @@
+import 'package:code_genius/screens/chatgpt_screen.dart';
 import 'package:code_genius/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(ChatgptScreen());
 }
 
 class MyApp extends StatelessWidget {
@@ -11,7 +12,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(primarySwatch: Colors.blue,
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
         fontFamily: 'Poppins',
         textTheme: const TextTheme(
           titleLarge: TextStyle(
@@ -32,7 +34,8 @@ class MyApp extends StatelessWidget {
             fontSize: 18,
             color: Colors.black,
           ),
-        ),),
+        ),
+      ),
       home: WelcomeScreen(),
     );
   }

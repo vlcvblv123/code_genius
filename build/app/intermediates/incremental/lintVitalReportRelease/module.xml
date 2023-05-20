@@ -4,7 +4,7 @@
     name=":app"
     type="APP"
     maven="android:app:"
-    gradle="7.2.0"
+    gradle="7.4.1"
     buildFolder="C:\Users\dinht\Documents\FlutterDev\code_genius\build\app"
     bootClassPath="C:\Users\dinht\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\dinht\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
     javaSourceLevel="1.8"

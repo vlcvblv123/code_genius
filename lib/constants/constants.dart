@@ -24,45 +24,45 @@ import 'package:flutter/material.dart';
 //   return modelsItems;
 // }
 
-final chatMessages = [
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 0,
-  },
-  {
-    "msg": "I'm Chat GPT",
-    "chatIndex": 1,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 0,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 1,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 0,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 1,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 0,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 1,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 0,
-  },
-  {
-    "msg": "Hello who are you",
-    "chatIndex": 1,
-  },
-];
+// final chatMessages = [
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 0,
+//   },
+//   {
+//     "msg": "I'm Chat GPT",
+//     "chatIndex": 1,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 0,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 1,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 0,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 1,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 0,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 1,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 0,
+//   },
+//   {
+//     "msg": "Hello who are you",
+//     "chatIndex": 1,
+//   },
+// ];

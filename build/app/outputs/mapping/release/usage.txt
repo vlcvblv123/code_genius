@@ -1407,7 +1407,7 @@ androidx.core.view.ScaleGestureDetectorCompat
 androidx.core.view.ScrollingView
 androidx.core.view.TintableBackgroundView
 androidx.core.view.VelocityTrackerCompat
-androidx.core.view.ViewCompat$$InternalSyntheticLambda$0$32a2c537725442ee4ae90f16773237f2371bb9b4d0e5fb29df8b99d9c001b7e2$0:
+androidx.core.view.ViewCompat$$InternalSyntheticLambda$1$32a2c537725442ee4ae90f16773237f2371bb9b4d0e5fb29df8b99d9c001b7e2$0:
     public final androidx.core.view.ContentInfoCompat onReceiveContent(androidx.core.view.ContentInfoCompat)
 androidx.core.view.ViewCompat$1
 androidx.core.view.ViewCompat$2:
@@ -19770,10 +19770,28 @@ androidx.arch.core.internal.SafeIterableMap:
     public java.lang.Object putIfAbsent(java.lang.Object,java.lang.Object)
 androidx.core.R$id:
     public static final int tag_transition_group
+androidx.core.app.ActivityCompat$PermissionCompatDelegate:
+    public abstract boolean onActivityResult(android.app.Activity,int,int,android.content.Intent)
+androidx.core.app.ActivityCompat:
+    private static androidx.core.app.ActivityCompat$PermissionCompatDelegate sDelegate
 androidx.core.app.BundleCompat$BundleCompatBaseImpl
 androidx.core.app.NotificationCompat$Action:
     public androidx.core.app.RemoteInput[] getDataOnlyRemoteInputs()
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$0
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$1
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$2
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$3
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$4
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$5
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$6
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl$$InternalSyntheticApiModelOutline$3$6e7271ba046966584d7e4dc31c9c028d255d7d9de474a432358b7144fb93556a$7
 androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl$$InternalSyntheticApiModelOutline$3$8970c2cc2d805df4eec8a892aa14314be612b4b30e7572399a41bf2529d9108e$0
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl$$InternalSyntheticApiModelOutline$3$8970c2cc2d805df4eec8a892aa14314be612b4b30e7572399a41bf2529d9108e$1
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl$$InternalSyntheticApiModelOutline$3$8970c2cc2d805df4eec8a892aa14314be612b4b30e7572399a41bf2529d9108e$2
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl$$InternalSyntheticApiModelOutline$3$8970c2cc2d805df4eec8a892aa14314be612b4b30e7572399a41bf2529d9108e$3
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl$$InternalSyntheticApiModelOutline$3$8970c2cc2d805df4eec8a892aa14314be612b4b30e7572399a41bf2529d9108e$4
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl$$InternalSyntheticApiModelOutline$3$8970c2cc2d805df4eec8a892aa14314be612b4b30e7572399a41bf2529d9108e$5
 androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl
 androidx.core.app.NotificationCompat$BubbleMetadata:
     public boolean getAutoExpandBubble()
@@ -19787,12 +19805,15 @@ androidx.core.app.NotificationCompat$BubbleMetadata:
 androidx.core.app.NotificationCompat$Builder:
     androidx.core.app.NotificationCompat$BubbleMetadata mBubbleMetadata
     androidx.core.content.LocusIdCompat mLocusId
+androidx.core.app.NotificationCompatBuilder$$InternalSyntheticApiModelOutline$2$73cb8751ab51b21ad35dca8bb429f18dd92b113dd98fb852fe30e6efdb45c21f$9
 androidx.core.app.NotificationCompatJellybean:
     private static java.lang.reflect.Field sExtrasField
     private static boolean sExtrasFieldAccessFailed
     public static android.util.SparseArray buildActionExtrasMap(java.util.List)
     public static android.os.Bundle getExtras(android.app.Notification)
     public static android.os.Bundle writeActionAndGetExtras(android.app.Notification$Builder,androidx.core.app.NotificationCompat$Action)
+androidx.core.app.RemoteInput$$InternalSyntheticApiModelOutline$4$25c7a00ff2857b8faab497d0260d9b7a4cb67240a7308d6bcf4480da9fd26053$0
+androidx.core.app.RemoteInput$$InternalSyntheticApiModelOutline$4$25c7a00ff2857b8faab497d0260d9b7a4cb67240a7308d6bcf4480da9fd26053$1
 androidx.core.app.RemoteInput:
     public boolean getAllowFreeFormInput()
     public java.util.Set getAllowedDataTypes()
@@ -19810,8 +19831,14 @@ androidx.core.view.LayoutInflaterCompat:
     private static boolean sCheckedField
     private static java.lang.reflect.Field sLayoutInflaterFactory2Field
     private static void forceSetFactory2(android.view.LayoutInflater,android.view.LayoutInflater$Factory2)
+androidx.core.view.OnApplyWindowInsetsListener:
+    public abstract androidx.core.view.WindowInsetsCompat onApplyWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat)
+androidx.core.view.ViewCompat$Api20Impl
+androidx.core.view.ViewCompat$Api21Impl$1:
+    final synthetic androidx.core.view.OnApplyWindowInsetsListener val$listener
 androidx.core.view.ViewCompat:
     private static java.util.WeakHashMap sTransitionNameMap
+    public static void requestApplyInsets(android.view.View)
 androidx.fragment.app.Fragment$AnimationInfo:
     androidx.core.app.SharedElementCallback mEnterTransitionCallback
     androidx.core.app.SharedElementCallback mExitTransitionCallback
@@ -19824,12 +19851,17 @@ androidx.lifecycle.LiveData$LifecycleBoundObserver:
     void <init>(androidx.lifecycle.LiveData,androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Observer)
     boolean isAttachedTo(androidx.lifecycle.LifecycleOwner)
 androidx.lifecycle.LiveData$ObserverWrapper:
+    final androidx.lifecycle.Observer mObserver
     void <init>(androidx.lifecycle.LiveData,androidx.lifecycle.Observer)
     boolean isAttachedTo(androidx.lifecycle.LifecycleOwner)
 androidx.lifecycle.LiveData:
     public java.lang.Object getValue()
     public boolean hasActiveObservers()
     public void observe(androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Observer)
+androidx.lifecycle.Observer:
+    public abstract void onChanged(java.lang.Object)
+androidx.lifecycle.ReportFragment:
+    private androidx.lifecycle.ReportFragment$ActivityInitializationListener mProcessListener
 androidx.loader.app.LoaderManagerImpl$LoaderInfo:
     private final androidx.loader.content.Loader mLoader
     private androidx.loader.app.LoaderManagerImpl$LoaderObserver mObserver
@@ -19855,6 +19887,14 @@ com.google.android.exoplayer2.MediaItem$LocalConfiguration:
 com.google.android.exoplayer2.source.ClippingMediaPeriod:
     private com.google.android.exoplayer2.source.ClippingMediaSource$IllegalClippingException clippingError
 com.google.android.exoplayer2.source.ClippingMediaSource$IllegalClippingException
+com.google.android.exoplayer2.source.MaskingMediaPeriod$PrepareListener
+com.google.android.exoplayer2.source.MaskingMediaPeriod:
+    private com.google.android.exoplayer2.source.MaskingMediaPeriod$PrepareListener listener
+    private boolean notifiedPrepareError
+com.google.android.exoplayer2.util.EGLSurfaceTexture$TextureImageListener:
+    public abstract void onFrameAvailable()
+com.google.android.exoplayer2.util.EGLSurfaceTexture:
+    private final com.google.android.exoplayer2.util.EGLSurfaceTexture$TextureImageListener callback
 com.google.android.exoplayer2.video.spherical.OrientationListener
 com.google.android.exoplayer2.video.spherical.SceneRenderer
 com.google.android.exoplayer2.video.spherical.SphericalGLSurfaceView:
@@ -19863,6 +19903,10 @@ com.google.android.exoplayer2.video.spherical.SphericalGLSurfaceView:
 com.google.android.gms.common.GooglePlayServicesUtilLight:
     static boolean zza
     private static boolean zzb
+com.google.android.gms.common.api.Api$SimpleClient:
+    public abstract android.os.IInterface createServiceInterface(android.os.IBinder)
+    public abstract java.lang.String getServiceDescriptor()
+    public abstract java.lang.String getStartServiceAction()
 com.google.android.gms.common.api.Api$zaa
 com.google.android.gms.common.api.Api$zab
 com.google.android.gms.common.api.Api:
@@ -19870,6 +19914,7 @@ com.google.android.gms.common.api.Api:
     private final com.google.android.gms.common.api.Api$zab zaaz
 com.google.android.gms.common.api.TransformedResult
 com.google.android.gms.common.api.internal.BasePendingResult:
+    private com.google.android.gms.common.internal.ICancelToken zadz
     private volatile com.google.android.gms.common.api.internal.zack zaea
 com.google.android.gms.common.api.internal.GoogleApiManager:
     private com.google.android.gms.common.api.internal.zaad zain
@@ -19882,6 +19927,9 @@ com.google.android.gms.common.api.internal.zabv:
 com.google.android.gms.common.api.internal.zack
 com.google.android.gms.common.api.internal.zak:
     public abstract void zab(com.google.android.gms.common.ConnectionResult,int)
+com.google.android.gms.common.internal.ICancelToken
+com.google.android.gms.common.internal.SimpleClientAdapter:
+    private final com.google.android.gms.common.api.Api$SimpleClient zapu
 com.google.android.gms.common.util.AndroidUtilsLight:
     private static volatile int zza
 com.google.android.gms.internal.auth-api-phone.zza:
@@ -19893,9 +19941,19 @@ com.google.android.gms.internal.base.zac
 com.google.android.gms.internal.base.zaq
 com.google.android.gms.internal.base.zar:
     private static volatile com.google.android.gms.internal.base.zaq zasi
+com.google.android.gms.internal.firebase-auth-api.zzaaq:
+    public static final synthetic int zza
+com.google.android.gms.internal.firebase-auth-api.zzabi:
+    public static final synthetic int zzd
 com.google.android.gms.internal.firebase-auth-api.zzabu:
     private static volatile boolean zzc
 com.google.android.gms.internal.firebase-auth-api.zzacr
+com.google.android.gms.internal.firebase-auth-api.zzfn:
+    public static final synthetic int zza
+com.google.android.gms.internal.firebase-auth-api.zzhr:
+    public static final synthetic int zza
+com.google.android.gms.internal.firebase-auth-api.zzot:
+    public static final synthetic int zzb
 com.google.android.gms.internal.firebase-auth-api.zzwn:
     private static final java.lang.String zza
     private void <init>()
@@ -19908,10 +19966,16 @@ com.google.android.gms.internal.safetynet.zzb:
 com.google.android.gms.internal.safetynet.zzd
 com.google.android.gms.internal.safetynet.zzk:
     private static final java.lang.String TAG
+com.google.android.gms.safetynet.SafeBrowsingData:
+    private static final java.lang.String TAG
 com.google.firebase.auth.internal.zzbf:
     private void <init>()
 com.google.firebase.heartbeatinfo.HeartBeatInfoStorage:
     private static com.google.firebase.heartbeatinfo.HeartBeatInfoStorage instance
+io.flutter.FlutterInjector$Builder:
+    private io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+io.flutter.FlutterInjector:
+    private io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
 io.flutter.Log:
     public static int ASSERT
     public static int DEBUG
@@ -19927,8 +19991,34 @@ io.flutter.embedding.engine.FlutterEngineConnectionRegistry:
     private io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineBroadcastReceiverPluginBinding broadcastReceiverPluginBinding
     private io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineContentProviderPluginBinding contentProviderPluginBinding
     private io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineServicePluginBinding servicePluginBinding
+io.flutter.embedding.engine.dart.DartExecutor$DefaultBinaryMessenger:
+    public void setMessageHandler(java.lang.String,io.flutter.plugin.common.BinaryMessenger$BinaryMessageHandler,io.flutter.plugin.common.BinaryMessenger$TaskQueue)
+io.flutter.embedding.engine.dart.DartExecutor$IsolateServiceIdListener:
+    public abstract void onIsolateServiceIdAvailable(java.lang.String)
+io.flutter.embedding.engine.dart.DartExecutor:
+    private io.flutter.embedding.engine.dart.DartExecutor$IsolateServiceIdListener isolateServiceIdListener
+    static synthetic java.lang.String access$000(io.flutter.embedding.engine.dart.DartExecutor)
+    public void setMessageHandler(java.lang.String,io.flutter.plugin.common.BinaryMessenger$BinaryMessageHandler,io.flutter.plugin.common.BinaryMessenger$TaskQueue)
+io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager:
+    public abstract void destroy()
+    public abstract java.lang.String getDeferredComponentInstallState(int,java.lang.String)
+    public abstract void installDeferredComponent(int,java.lang.String)
+    public abstract void setDeferredComponentChannel(io.flutter.embedding.engine.systemchannels.DeferredComponentChannel)
+    public abstract boolean uninstallDeferredComponent(int,java.lang.String)
 io.flutter.embedding.engine.loader.ResourceExtractor:
     void waitForCompletion()
+io.flutter.embedding.engine.systemchannels.DeferredComponentChannel:
+    private io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+    static synthetic java.util.Map access$100(io.flutter.embedding.engine.systemchannels.DeferredComponentChannel)
+    public void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+io.flutter.plugin.common.BasicMessageChannel:
+    private final io.flutter.plugin.common.BinaryMessenger$TaskQueue taskQueue
+io.flutter.plugin.common.BinaryMessenger:
+    public void setMessageHandler(java.lang.String,io.flutter.plugin.common.BinaryMessenger$BinaryMessageHandler,io.flutter.plugin.common.BinaryMessenger$TaskQueue)
+io.flutter.plugin.common.EventChannel:
+    private final io.flutter.plugin.common.BinaryMessenger$TaskQueue taskQueue
+io.flutter.plugin.common.MethodChannel:
+    private final io.flutter.plugin.common.BinaryMessenger$TaskQueue taskQueue
 io.flutter.plugin.platform.VirtualDisplayController:
     private static java.lang.String TAG
 io.flutter.plugins.videoplayer.CustomSSLSocketFactory

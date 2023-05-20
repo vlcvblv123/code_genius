@@ -1,51 +1,51 @@
 [
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_notification_icon_background.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable/notification_icon_background.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable/notification_icon_background.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_notification_bg.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable/notification_bg.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable/notification_bg.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/xml_image_share_filepaths.xml.flat",
-        "source": "com.example.code_genius.app-browser-1.4.0-1:/xml/image_share_filepaths.xml"
+        "source": "com.example.code_genius.app-browser-1.4.0-2:/xml/image_share_filepaths.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_text_dark.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-hdpi-v4/googleg_disabled_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-hdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_browser_actions_context_menu_row.xml.flat",
-        "source": "com.example.code_genius.app-browser-1.4.0-1:/layout/browser_actions_context_menu_row.xml"
+        "source": "com.example.code_genius.app-browser-1.4.0-2:/layout/browser_actions_context_menu_row.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-hdpi-v4/common_full_open_on_phone.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout-v16/notification_template_custom_big.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout-v16/notification_template_custom_big.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/mipmap-xhdpi_ic_launcher.png.flat",
@@ -53,71 +53,71 @@
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-hdpi-v4/googleg_standard_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/menu_example_menu2.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/menu/example_menu2.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/menu/example_menu2.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-v21_notification_action_background.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-v21/notification_action_background.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_icon_dark.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_notification_template_part_time.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout/notification_template_part_time.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout/notification_template_part_time.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_notification_tile_bg.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable/notification_tile_bg.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_icon_disabled.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_text_light_normal.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout-v21/notification_template_custom_big.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -125,63 +125,63 @@
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/color/common_google_signin_btn_text_dark.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_text_light.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_notification_template_icon_group.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout/notification_template_icon_group.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_text_light_focused.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_browser_actions_context_menu_page.xml.flat",
-        "source": "com.example.code_genius.app-browser-1.4.0-1:/layout/browser_actions_context_menu_page.xml"
+        "source": "com.example.code_genius.app-browser-1.4.0-2:/layout/browser_actions_context_menu_page.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/mipmap-xxhdpi_ic_launcher.png.flat",
@@ -193,11 +193,11 @@
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_notification_action_tombstone.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout/notification_action_tombstone.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/mipmap-mdpi_ic_launcher.png.flat",
@@ -205,39 +205,39 @@
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout-v21/notification_template_icon_group.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/menu_example_menu.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/menu/example_menu.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/menu/example_menu.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_icon_light.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_custom_dialog.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout/custom_dialog.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout/custom_dialog.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_notification_bg_low.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable/notification_bg_low.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable/notification_bg_low.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_launch_background.xml.flat",
@@ -245,43 +245,43 @@
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/raw_firebase_common_keep.xml.flat",
-        "source": "com.example.code_genius.app-jetified-firebase-common-20.1.2-6:/raw/firebase_common_keep.xml"
+        "source": "com.example.code_genius.app-jetified-firebase-common-20.1.2-9:/raw/firebase_common_keep.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/color_common_google_signin_btn_tint.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/color/common_google_signin_btn_tint.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_text_disabled.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/mipmap-hdpi_ic_launcher.png.flat",
@@ -289,62 +289,62 @@
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout-v21/notification_action_tombstone.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/color/common_google_signin_btn_text_light.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_notification_template_part_chronometer.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout/notification_template_part_chronometer.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout_notification_action.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout/notification_action.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout/notification_action.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/layout-v21_notification_action.xml.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/layout-v21/notification_action.xml"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/layout-v21/notification_action.xml"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "com.example.code_genius.app-core-1.7.0-3:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "com.example.code_genius.app-core-1.7.0-5:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "com.example.code_genius.app-merged_res-17:/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-8:/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "com.example.code_genius.app-jetified-play-services-base-17.1.0-4:/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     }
 ]
